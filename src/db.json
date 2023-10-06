@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Books"
+    },
+    {
+      "id": 4,
+      "name": "Home Decor"
+    },
+    {
+      "id": 5,
+      "name": "Sports"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "categoryId": 1,
+      "price": "999.99",
+      "features": [
+        "Fast Processor",
+        "High Resolution Display",
+        "Lightweight",
+        "Long Battery Life"
+      ],
+      "imgURL": "https://example.com/laptop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "categoryId": 1,
+      "price": "500.99",
+      "features": [
+        "5G Connectivity",
+        "Amoled Screen",
+        "Dual Camera"
+      ],
+      "imgURL": "https://example.com/smartphone.jpg"
+    },
+    {
+      "id": 3,
+      "name": "T-Shirt-new",
+      "categoryId": 2,
+      "price": "29.99",
+      "features": [
+        "100% Cotton",
+        "Available in Various Colors"
+      ],
+      "imgURL": "https://example.com/t-shirt.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jeans",
+      "categoryId": 2,
+      "price": 39.99,
+      "features": [
+        "Slim Fit",
+        "High-Quality Denim"
+      ],
+      "imgURL": "https://example.com/jeans.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Premium Coffee Table",
+      "categoryId": 4,
+      "price": "149.99",
+      "features": [
+        "Solid Wood Construction",
+        "Modern Design"
+      ],
+      "imgURL": "https://example.com/coffee-table.jpg"
+    }
+  ]
+}
